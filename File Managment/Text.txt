@@ -1,0 +1,2 @@
+This is a sample text file.
+It contains some words and punctuation marks, such as commas, periods, and exclamation marks!
